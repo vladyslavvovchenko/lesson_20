@@ -13,6 +13,12 @@
     --white: #fff;
 }
 
+/* плавна прокрутка сторінки */
+
+html{
+    scroll-behavior: smooth;
+}
+
 body{
   font-family: var(--mainFontFamily);
   text-align: center;
