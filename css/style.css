@@ -1447,7 +1447,7 @@ body{
     gap: 0.75rem;
 }
 
-@media (min-width:1001px){
+@media (min-width: 62.5625em){
     .address{
     flex-direction: column;
 }
