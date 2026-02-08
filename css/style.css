@@ -25,6 +25,10 @@ body{
   background-color: var(--white);
 }
 
+.page{
+    scroll-margin-top: 100px;
+}
+
 .wrapper{
     min-height: 100%;
     overflow: clip;
